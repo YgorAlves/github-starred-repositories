@@ -9,7 +9,7 @@ ou
 yarn
 ```
 
-E para executar o projeto, rodar: ```npm start ou yarn start ```
+E para executar o projeto com um Simulador Android/iOS ou com USB Debug, rodar: ```react-native run-android ou react-native run-ios```
 
 ## Tecnologias/Ferramentas utilizadas
 
